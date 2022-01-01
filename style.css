@@ -6,7 +6,9 @@ body {
   font-family: Tahoma, sans-serif;
   font-size: 40px;
   font-weight: 600;
-  color: rgb(29, 121, 142)
+  color: rgb(29, 121, 142);
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .sub.title {
@@ -41,4 +43,8 @@ li {
 .image {
   width: 300px;
   height: auto;
+}
+
+p {
+  margin: 0;
 }
