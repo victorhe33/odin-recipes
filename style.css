@@ -1,0 +1,37 @@
+body {
+  background-color: rgb(255, 250, 232);
+}
+
+.title {
+  font-family: Tahoma, sans-serif;
+  font-size: 40px;
+  font-weight: 600;
+  color: rgb(29, 121, 142)
+}
+
+.sub.title {
+  font-size: 25px;
+}
+
+.paragraph,
+.list,
+.footer {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.paragraph {
+  font-size: 20px;
+}
+
+.list {
+  
+}
+
+.footer {
+  font-size: 14px;
+}
+
+.image {
+  width: 300px;
+  height: auto;
+}
