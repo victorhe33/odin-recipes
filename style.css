@@ -27,6 +27,13 @@ body {
   font-size: 18px;
 }
 
+ul,
+li {
+  padding: auto;
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
+
 .footer {
   font-size: 14px;
 }
